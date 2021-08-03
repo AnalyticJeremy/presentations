@@ -14,6 +14,7 @@ x * 2
 ```
 
 ---
+
 <!-- .slide: data-background="#ff0000" -->
 ## Slide 3
 This is the final slide.
