@@ -7,8 +7,8 @@ Ideas for my self-directed data science project
 ### Minecraft Auto-Miner (Computed Path)
  - Use world seed and game libraries to compute ore locations
  - Compute best route to efficiently gather resources
- - Automated player to follow computed path <!-- .element: class="fragment" data-fragment-index="1" -->
- - ... but this is just analytics, not ML
+ - Automated player to follow computed path <!-- .element: class="fragment" data-fragment-index="2" -->
+ - ... but this is just analytics, not ML  <!-- .element: class="fragment" data-fragment-index="1" -->
 
 ---
 
@@ -63,7 +63,7 @@ Can I build a model to provide fine-grained predictions of how busy a national p
 
 ## National Park Visitors
  - NPS provides number of visitors per month
-   <img src="https://www.nps.gov/yell/planyourvisit/images/2018_1.jpg?maxwidth=1200&maxheight=1200&autorotate=false" alt="average visitors by year" style="width: 20%" />
+   <img src="https://www.nps.gov/yell/planyourvisit/images/2018_1.jpg?maxwidth=1200&maxheight=1200&autorotate=false" alt="average visitors by year" style="width: 35%" />
  - ... but I want to know which week of the month or day of the month or hour of the day is least crowded
 
 ---
