@@ -14,17 +14,17 @@ Ideas for my self-directed data science project
 
 ## Games
 ### Minecraft Auto-Miner (AI)
- - Use AI to interpret players environment <!-- .element: class="fragment" data-fragment-index="1" -->
- - Apply probabilities to execute branch mining <!-- .element: class="fragment" data-fragment-index="1" -->
- - ... but there are others already working on this: [MineRL](https://minerl.io/) <!-- .element: class="fragment" data-fragment-index="2" -->
+ - Use AI to interpret players environment
+ - Apply probabilities to execute branch mining
+ - ... but there are others already working on this: [MineRL](https://minerl.io/)
 
 ---
 
 ## Games
 ### Clue
- - Automated player for the board game <!-- .element: class="fragment" data-fragment-index="1" -->
- - Compute probabilities based on cards held / seen <!-- .element: class="fragment" data-fragment-index="1" -->
- - <!-- .element: class="fragment" data-fragment-index="2" --> *REAL* challenge is AI to read cards and interpret game board
+ - Automated player for the board game
+ - Compute probabilities based on cards held / seen
+ - *REAL* challenge is AI to read cards and interpret game board
 
 ---
 
