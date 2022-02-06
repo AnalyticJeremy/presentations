@@ -5,10 +5,10 @@ Ideas for my self-directed data science project
 
 ## Games
 ### Minecraft Auto-Miner (Computed Path)
- - Use world seed and game libraries to compute ore locations
+ - Use world seed and game libraries to compute ore locations <!-- .element: class="fragment" data-fragment-index="1" -->
  - Compute best route to efficiently gather resources
- - Automated player to follow computed path <!-- .element: class="fragment" data-fragment-index="2" -->
- - ... but this is just analytics, not ML  <!-- .element: class="fragment" data-fragment-index="1" -->
+ - Automated player to follow computed path
+ - ... but this is just analytics, not ML <!-- .element: class="fragment" data-fragment-index="2" -->
 
 ---
 
