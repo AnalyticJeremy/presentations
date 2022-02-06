@@ -16,7 +16,7 @@ Ideas for my self-directed data science project
 ### Minecraft Auto-Miner (AI)
  - Use AI to interpret players environment <!-- .element: class="fragment" data-fragment-index="1" -->
  - Apply probabilities to execute branch mining <!-- .element: class="fragment" data-fragment-index="1" -->
- <span>- ... but there are others already working on this: [MineRL](https://minerl.io/)</span> <!-- .element: class="fragment" data-fragment-index="2" -->
+ - ... but there are others already working on this: [MineRL](https://minerl.io/) <!-- .element: class="fragment" data-fragment-index="2" -->
 
 ---
 
@@ -24,7 +24,7 @@ Ideas for my self-directed data science project
 ### Clue
  - Automated player for the board game <!-- .element: class="fragment" data-fragment-index="1" -->
  - Compute probabilities based on cards held / seen <!-- .element: class="fragment" data-fragment-index="1" -->
- <span>- *REAL* challenge is AI to read cards and interpret game board</span> <!-- .element: class="fragment" data-fragment-index="2" -->
+ - <!-- .element: class="fragment" data-fragment-index="2" --> *REAL* challenge is AI to read cards and interpret game board
 
 ---
 
@@ -32,10 +32,8 @@ Ideas for my self-directed data science project
 ### Forza Horizon 5
  - Game has a feature that lets you log data in real-time
  - Could use ML to optimize care tunes
- <span>
  - *or* could use data to optimize my skills as a player
    - *e.g.* how much caffeine do I need for peak racing
- </span> <!-- .element: class="fragment" data-fragment-index="1" -->
 
 ---
 
