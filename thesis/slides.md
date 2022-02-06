@@ -63,7 +63,7 @@ Can I build a model to provide fine-grained predictions of how busy a national p
 
 ## National Park Visitors
  - NPS provides number of visitors per month
-   ![average visitors by year](https://www.nps.gov/yell/planyourvisit/images/2018_1.jpg?maxwidth=1200&maxheight=1200&autorotate=false)
+   ![average visitors by year | width=3](https://www.nps.gov/yell/planyourvisit/images/2018_1.jpg?maxwidth=1200&maxheight=1200&autorotate=false)
  - ... but I want to know which week of the month or day of the month or hour of the day is least crowded
 
 ---
