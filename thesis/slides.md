@@ -31,7 +31,7 @@ Ideas for my self-directed data science project
 ## Games
 ### Forza Horizon 5
  - Game has a feature that lets you log data in real-time
- - Could use ML to optimize care tunes
+ - Could use ML to optimize car tunes
  - *or* could use data to optimize my skills as a player
    - *e.g.* how much caffeine do I need for peak racing
 
@@ -69,7 +69,7 @@ Can I build a model to provide fine-grained predictions of how busy a national p
 ---
 
 ## National Park Visitors
-The variables used for prediction would be fairly simple
+The variables used for prediction would be fairly simple:
  - park
  - calendar dimensions (month, day of week, holidays)
  - weather
@@ -77,7 +77,11 @@ The variables used for prediction would be fairly simple
 ---
 
 ## National Park Visitors
-However, NPS doesn't publish daily numbers so we don't have "ground truth" to use as a dependent variable
+**Challenge:** NPS doesn't publish daily numbers so we don't have "ground truth" to use as a dependent variable.
+
+---
+
+## National Park Visitors
 
 But there are multiple data sources that could be used as a proxy for number of visitors
  - social media posts
