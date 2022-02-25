@@ -95,3 +95,11 @@ There are limitations to all of these data sources, but can they be synthesized 
 
  - study correlations between all potential sources to make see which ones agree
  - aggregate each to a monthly level and study correclation with NPS published numbers
+
+---
+
+## National Park Visitors
+**Assumption:** air quality sensor data provides most details with best coverage and least ethical concerns
+**Project Goals:**
+ - analyze correlation between air quality data and other visitation metrics
+ - build a model to predict air quality and treat it as a proxy for number of visitors
