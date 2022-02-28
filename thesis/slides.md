@@ -102,4 +102,5 @@ There are limitations to all of these data sources, but can they be synthesized 
 **Assumption:** air quality sensor data provides most details with best coverage and least ethical concerns
 **Project Goals:**
  - analyze correlation between air quality data and other visitation metrics
+ - analyze correlation between air quaility and attendance in areas that *do* have fine-grained statistics
  - build a model to predict air quality and treat it as a proxy for number of visitors
